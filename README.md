@@ -1,4 +1,4 @@
 # git-demo
 Learning GIT
 <br>
-Author - Ajit 
+Author - Ajit Chauhan
